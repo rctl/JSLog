@@ -9,7 +9,7 @@ Include the jslog
 
 `<script src="js/log.js" type="text/javascript"></script>`
 
-JSLog is automatically initialized to post logs to path /log and will listen for js errors that occurr.
+JSLog is automatically initialized to post logs to path /log and **will listen for js errors that occurr.**
 
 To change to custom settings you can run:
 
@@ -18,7 +18,9 @@ To change to custom settings you can run:
 You can also manually log events by doing:
 
 `log.Info("This is some info");`
+
 `log.Warning("This is a warning");`
+
 `log.Error("This is some error");`
 
 ## Usage (Backend)
