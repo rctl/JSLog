@@ -3,6 +3,8 @@
 JavaScript Log catches errors from JavaScript and posts them to a backend server.
 Server implementation in Go is available.
 
+`This project is no longer maintained.`
+
 ## Usage (Frontend)
 
 Include the jslog
